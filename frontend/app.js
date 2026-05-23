@@ -1,4 +1,4 @@
-const BACKEND_URL = "https://overintense-cleo-unwaved.ngrok-free.dev/api/v1/analizar";
+const BACKEND_URL = "https://clovered-carry-pseudovelar.ngrok-free.dev/api/v1/analizar";
 
 Office.onReady((info) => {
     if (info.host === Office.HostType.Outlook) {

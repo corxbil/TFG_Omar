@@ -27,7 +27,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://mromarxd.github.io/TFG/frontend/index.html"/>
+        <SourceLocation DefaultValue="https://corxbil.github.io/TFG_Omar/frontend/index.html"/>
         <RequestedHeight>350</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -79,7 +79,7 @@
           <bt:Image id="icon" DefaultValue="https://cdn-icons-png.flaticon.com/512/2721/2721294.png"/>
         </bt:Images>
         <bt:Urls>
-          <bt:Url id="TaskpaneUrl" DefaultValue="https://mromarxd.github.io/TFG/frontend/index.html" />
+          <bt:Url id="TaskpaneUrl" DefaultValue="https://corxbil.github.io/TFG_Omar/frontend/index.html" />
         </bt:Urls>
         <bt:ShortStrings>
           <bt:String id="groupLabel" DefaultValue="PhishGuard AI" />
